@@ -7,7 +7,7 @@
     },
     "files": [
         "README.md",
-        "docs/skillmaps/jungle.md",
+        "docs/skillmap/jungle.md",
         "_locales/fr/skillmap.md",
         "docs/skillmap/jungle/jungle1.md",
         "docs/skillmap/jungle/jungle2.md",
